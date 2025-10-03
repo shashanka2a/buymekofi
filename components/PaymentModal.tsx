@@ -15,27 +15,27 @@ interface PaymentModalProps {
 
 const PAYMENT_DATA = {
   'PayPal': {
-    qrCode: '/paypal-qr.jpeg',
+    qrCode: '/paypal_qr.svg',
     identifier: 'sjagannatham@ufl.edu',
     label: 'PayPal Email'
   },
   'UPI': {
-    qrCode: '/paytm-qr.jpeg',
+    qrCode: '/paytm_qr.svg',
     identifier: 'paytmqr5k0zkc@ptys',
     label: 'UPI ID'
   },
   'CashApp': {
-    qrCode: '/cashapp-qr.jpeg',
+    qrCode: '/cashapp_qr.svg',
     identifier: '$shashankj02',
     label: 'CashApp Tag'
   },
   'Zelle': {
-    qrCode: '/zelle-qr.jpeg',
+    qrCode: '/zelle_qr.svg',
     identifier: 'jagannathamshashank@gmail.com',
     label: 'Zelle Email'
   },
   'Crypto': {
-    qrCode: '/metamask-qr.jpeg',
+    qrCode: '/metamask_qr.svg',
     identifier: 'sankhash.eth',
     label: 'ENS Address (USDC/ETH)'
   }
