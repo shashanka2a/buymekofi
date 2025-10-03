@@ -1,0 +1,3 @@
+module.exports=[74133,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(1130);a.n(d("[project]/Downloads/buymekofi/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},27624,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(1130);a.n(d("[project]/Downloads/buymekofi/node_modules/next/dist/client/components/builtin/global-error.js"))},61212,a=>{"use strict";a.i(74133);var b=a.i(27624);a.n(b)}];
+
+//# sourceMappingURL=7ddfd_next_dist_client_components_builtin_global-error_f8a4f895.js.map
