@@ -40,7 +40,7 @@ export default function Home() {
           <div className="flex items-center justify-center mb-6">
             <CoffeeCup size="md" />
           </div>
-          <h1 className="text-3xl md:text-4xl mb-4 bg-gradient-to-r from-white to-zinc-300 bg-clip-text text-transparent">Support My Work</h1>
+          <h1 className="text-3xl md:text-4xl mb-4 bg-gradient-to-r from-white to-zinc-300 bg-clip-text text-transparent">Payment Gateway</h1>
           <p className="text-zinc-400 text-lg">Choose your preferred payment method</p>
         </motion.div>
 
