@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Support My Work",
-  description: "Buy me a coffee style support page with multiple payment methods.",
+  title: "Payment Gateway",
+  description: "Unified payment gateway supporting PayPal, UPI, CashApp, Zelle, and Crypto.",
   metadataBase: new URL("https://example.com"),
   openGraph: {
-    title: "Support My Work",
-    description: "Choose PayPal, UPI, CashApp, Zelle, or Crypto.",
+    title: "Payment Gateway",
+    description: "Pay securely via PayPal, UPI, CashApp, Zelle, or Crypto.",
     images: [
       {
         url: "/og-image.png",
