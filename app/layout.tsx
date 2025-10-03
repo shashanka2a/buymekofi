@@ -29,7 +29,10 @@ export const metadata: Metadata = {
     ],
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: [
+      { url: "/icon.svg", media: "(prefers-color-scheme: light)" },
+      { url: "/icon.svg", media: "(prefers-color-scheme: dark)" },
+    ],
   },
 };
 

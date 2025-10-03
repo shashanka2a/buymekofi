@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="coffeeGradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+  <!-- Cup body -->
+  <path d="M14 18v26c0 3 2 5 5 5h20c3 0 5-2 5-5V18H14z" stroke="url(#coffeeGradient)" stroke-width="3" fill="none" stroke-linejoin="round"/>
+  <!-- Handle -->
+  <path d="M44 22c6 0 8 3 8 7s-2 7-8 7" stroke="url(#coffeeGradient)" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Coffee surface -->
+  <path d="M14 18h30" stroke="url(#coffeeGradient)" stroke-width="3" stroke-linecap="round"/>
+  <!-- Steam lines -->
+  <path d="M22 10c2 3 2 5 0 8" stroke="url(#coffeeGradient)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M30 9c2 3 2 6 0 9" stroke="url(#coffeeGradient)" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <path d="M38 10c2 3 2 5 0 8" stroke="url(#coffeeGradient)" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</svg>
+
